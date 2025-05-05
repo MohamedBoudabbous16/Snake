@@ -1,0 +1,12 @@
+# Fichiers compilés
+Snake
+snakegame
+
+# Débogage
+*.dSYM/
+
+# Éventuels fichiers temporaires
+*.o
+*.out
+
+
